@@ -1,0 +1,11 @@
+E:\VS 2курс\lab 6.3\lab 6.3\bin\Debug\lab 6.3.exe.config
+E:\VS 2курс\lab 6.3\lab 6.3\bin\Debug\lab 6.3.exe
+E:\VS 2курс\lab 6.3\lab 6.3\bin\Debug\lab 6.3.pdb
+E:\VS 2курс\lab 6.3\lab 6.3\obj\Debug\lab 6.3.csproj.AssemblyReference.cache
+E:\VS 2курс\lab 6.3\lab 6.3\obj\Debug\lab_6._3.fHouse.resources
+E:\VS 2курс\lab 6.3\lab 6.3\obj\Debug\lab_6._3.fMain.resources
+E:\VS 2курс\lab 6.3\lab 6.3\obj\Debug\lab_6._3.Properties.Resources.resources
+E:\VS 2курс\lab 6.3\lab 6.3\obj\Debug\lab 6.3.csproj.GenerateResource.cache
+E:\VS 2курс\lab 6.3\lab 6.3\obj\Debug\lab 6.3.csproj.CoreCompileInputs.cache
+E:\VS 2курс\lab 6.3\lab 6.3\obj\Debug\lab 6.3.exe
+E:\VS 2курс\lab 6.3\lab 6.3\obj\Debug\lab 6.3.pdb
